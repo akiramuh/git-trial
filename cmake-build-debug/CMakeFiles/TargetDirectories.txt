@@ -1,0 +1,3 @@
+C:/Users/pc/Documents/Muhammad Akira/Git/cmake-build-debug/CMakeFiles/Git.dir
+C:/Users/pc/Documents/Muhammad Akira/Git/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/Documents/Muhammad Akira/Git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
